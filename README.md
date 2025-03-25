@@ -2,7 +2,7 @@
 
 # ABC: Towards a Universal Code Styler through Model Merging
 
-This repo contains code, dataset, and model checkpoints for *ABC: Towards a Universal Code Styler through Model Merging*, submitted to OOPSLA 2025.
+This repo contains code and dataset for *ABC: Towards a Universal Code Styler through Model Merging*, submitted to OOPSLA 2025.
 We hope that this work can be useful for future research on Code Style Transformation.
 
 
